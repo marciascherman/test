@@ -1,0 +1,30 @@
+[2016-06-27 01:14:48,730][INFO ][node                     ] [Hindsight Lad] version[2.3.3], pid[3983], build[218bdf1/2016-05-17T15:40:04Z]
+[2016-06-27 01:14:48,731][INFO ][node                     ] [Hindsight Lad] initializing ...
+[2016-06-27 01:14:49,193][INFO ][plugins                  ] [Hindsight Lad] modules [reindex, lang-expression, lang-groovy], plugins [], sites []
+[2016-06-27 01:14:49,234][INFO ][env                      ] [Hindsight Lad] using [1] data paths, mounts [[/ (rootfs)]], net usable_space [99.1gb], net total_space [99.9gb], spins? [unknown], types [rootfs]
+[2016-06-27 01:14:49,234][INFO ][env                      ] [Hindsight Lad] heap size [990.7mb], compressed ordinary object pointers [true]
+[2016-06-27 01:14:50,836][INFO ][node                     ] [Hindsight Lad] initialized
+[2016-06-27 01:14:50,837][INFO ][node                     ] [Hindsight Lad] starting ...
+[2016-06-27 01:14:50,956][INFO ][transport                ] [Hindsight Lad] publish_address {127.0.0.1:9300}, bound_addresses {[::1]:9300}, {127.0.0.1:9300}
+[2016-06-27 01:14:50,964][INFO ][discovery                ] [Hindsight Lad] elasticsearch/sWroHd__TAWYovjN400WhQ
+[2016-06-27 01:14:54,011][INFO ][cluster.service          ] [Hindsight Lad] new_master {Hindsight Lad}{sWroHd__TAWYovjN400WhQ}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2016-06-27 01:14:54,030][INFO ][http                     ] [Hindsight Lad] publish_address {127.0.0.1:9200}, bound_addresses {[::1]:9200}, {127.0.0.1:9200}
+[2016-06-27 01:14:54,030][INFO ][node                     ] [Hindsight Lad] started
+[2016-06-27 01:14:54,062][INFO ][gateway                  ] [Hindsight Lad] recovered [0] indices into cluster_state
+[2016-06-27 01:54:29,403][INFO ][node                     ] [Major Mapleleaf] version[2.3.3], pid[4173], build[218bdf1/2016-05-17T15:40:04Z]
+[2016-06-27 01:54:29,405][INFO ][node                     ] [Major Mapleleaf] initializing ...
+[2016-06-27 01:54:29,921][INFO ][plugins                  ] [Major Mapleleaf] modules [reindex, lang-expression, lang-groovy], plugins [kolbeck-native-script], sites []
+[2016-06-27 01:54:29,938][INFO ][env                      ] [Major Mapleleaf] using [1] data paths, mounts [[/ (rootfs)]], net usable_space [99.1gb], net total_space [99.9gb], spins? [unknown], types [rootfs]
+[2016-06-27 01:54:29,939][INFO ][env                      ] [Major Mapleleaf] heap size [990.7mb], compressed ordinary object pointers [true]
+[2016-06-27 01:54:31,608][INFO ][node                     ] [Major Mapleleaf] initialized
+[2016-06-27 01:54:31,609][INFO ][node                     ] [Major Mapleleaf] starting ...
+[2016-06-27 01:54:31,696][INFO ][transport                ] [Major Mapleleaf] publish_address {127.0.0.1:9300}, bound_addresses {[::1]:9300}, {127.0.0.1:9300}
+[2016-06-27 01:54:31,704][INFO ][discovery                ] [Major Mapleleaf] elasticsearch/yDfoWUDeRleGWeo8k2Q_jA
+[2016-06-27 01:54:34,746][INFO ][cluster.service          ] [Major Mapleleaf] new_master {Major Mapleleaf}{yDfoWUDeRleGWeo8k2Q_jA}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2016-06-27 01:54:34,758][INFO ][http                     ] [Major Mapleleaf] publish_address {127.0.0.1:9200}, bound_addresses {[::1]:9200}, {127.0.0.1:9200}
+[2016-06-27 01:54:34,758][INFO ][node                     ] [Major Mapleleaf] started
+[2016-06-27 01:54:34,781][INFO ][gateway                  ] [Major Mapleleaf] recovered [0] indices into cluster_state
+[2016-06-27 01:55:53,756][INFO ][node                     ] [Major Mapleleaf] stopping ...
+[2016-06-27 01:55:53,767][INFO ][node                     ] [Major Mapleleaf] stopped
+[2016-06-27 01:55:53,767][INFO ][node                     ] [Major Mapleleaf] closing ...
+[2016-06-27 01:55:53,771][INFO ][node                     ] [Major Mapleleaf] closed
